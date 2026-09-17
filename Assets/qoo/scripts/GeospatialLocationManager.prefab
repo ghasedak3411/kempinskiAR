@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6195225929499038824
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3134741818930716106}
+  - component: {fileID: 8711892432042356834}
+  m_Layer: 0
+  m_Name: GeospatialLocationManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3134741818930716106
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6195225929499038824}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8711892432042356834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6195225929499038824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80a4ca3b86aa6b54495187a54dbe1e1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  anchorManager: {fileID: 0}
+  earthManager: {fileID: 0}
+  buildingLatitude: 25.812597
+  buildingLongitude: -80.189047
+  locations:
+  - label: 1
+    latitude: 25.812435
+    longitude: -80.187612
+    prefab: {fileID: 9200457414890115396, guid: ac18775c1909cb940b213cf8ed57a54f, type: 3}
+    fixedYRotation: 0
+    spawnedInstance: {fileID: 0}
+    spawnedAnchor: {fileID: 0}
+  - label: 2
+    latitude: 25.812392
+    longitude: -80.189413
+    prefab: {fileID: 8188384964843101938, guid: 88e45cd6561af5a468d2c7e3f32ba3dd, type: 3}
+    fixedYRotation: 0
+    spawnedInstance: {fileID: 0}
+    spawnedAnchor: {fileID: 0}
+  - label: 3
+    latitude: 25.81291
+    longitude: -80.189349
+    prefab: {fileID: 308959035466676337, guid: 6e1d1ec2a9b573b49aa590ee876db38a, type: 3}
+    fixedYRotation: 0
+    spawnedInstance: {fileID: 0}
+    spawnedAnchor: {fileID: 0}
+  - label: 4
+    latitude: 25.813294
+    longitude: -80.189304
+    prefab: {fileID: 3316787272115011242, guid: 4b06bcef7d0160440b005b5206e91cd6, type: 3}
+    fixedYRotation: 0
+    spawnedInstance: {fileID: 0}
+    spawnedAnchor: {fileID: 0}
+  distanceText: {fileID: 0}
+  triggerDistanceMeters: 3
+  altitudeOffset: 0
