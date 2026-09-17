@@ -3,7 +3,107 @@ guid: ccff22f046897e44faaf63a5da146c5d
 ModelImporter:
   serializedVersion: 24501
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Metal_01_Build_02
+    second: {fileID: 2100000, guid: 5d0f0e176e30a694785a60216e5ffa93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_NorthLobbyASSET_01
+    second: {fileID: 2100000, guid: 4d9b06deb043f0a45a248f463ba20cc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_NorthLobbyASSET_02
+    second: {fileID: 2100000, guid: e50bdfcfabff10f4486ef6253706f4cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_NorthLobbyASSET_03
+    second: {fileID: 2100000, guid: 2c7a5f7351a27e547a2b077e3857f496, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_NorthLobbySTR_01
+    second: {fileID: 2100000, guid: 7799c87faee277641b47c8d75f57de2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_NorthLobbySTR_02
+    second: {fileID: 2100000, guid: 5462084847e5ff148869a8d7f15f6ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_NorthLobbySTR_03
+    second: {fileID: 2100000, guid: e5d7836b11c61aa47b172137c2aba42b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_NorthLobbySTR_04
+    second: {fileID: 2100000, guid: 3d6fe15680e856647a04c03e2ef7a70f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_NorthLobbySTR_05
+    second: {fileID: 2100000, guid: e1e101ae51721a4469871b1cb34288eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_SouthLobbyASSET_01
+    second: {fileID: 2100000, guid: ff3c3d9cebce2d34ba802818e0caed3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_SouthLobbyASSET_02
+    second: {fileID: 2100000, guid: 527073c0565090a4eb83b578e1ddf3cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_SouthLobbyASSET_03
+    second: {fileID: 2100000, guid: 4f2603c3e8a971b40b5be530b0dd73f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_SouthLobbyASSET_04
+    second: {fileID: 2100000, guid: d6911631b9f744d4daf2d16e903ddbc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_SouthLobbyASSET_05
+    second: {fileID: 2100000, guid: 3a4a8eb2fc26c8945ac69e2b1a264427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_SouthLobbySTR_01
+    second: {fileID: 2100000, guid: 15d2834f35faf6e4d9d7beb1247c2b1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_SouthLobbySTR_02
+    second: {fileID: 2100000, guid: 9834346f8829b464b952b54a9d71ac3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_SouthLobbySTR_03
+    second: {fileID: 2100000, guid: 0f00cd97ed3b0464abdf73f6163563cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_SouthLobbySTR_04
+    second: {fileID: 2100000, guid: 6ee0ac9f6ca1f5c4a89ee518d79fa693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_SouthLobbySTR_05
+    second: {fileID: 2100000, guid: 1d6192dde74166041b3ef039882286a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_SouthLobbySTR_06
+    second: {fileID: 2100000, guid: 6286dd2f8f8a02a42a6d45c6f9983d2f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

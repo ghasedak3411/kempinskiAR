@@ -7129,7 +7129,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &5448657450573853341
 Transform:
   m_ObjectHideFlags: 0
@@ -27890,7 +27890,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &866264869553673053
 Transform:
   m_ObjectHideFlags: 0
@@ -34864,6 +34864,7 @@ Transform:
   - {fileID: 5279705236103110802}
   - {fileID: 2826336693496418075}
   - {fileID: 5448657450573853341}
+  - {fileID: 2821547257061420119}
   - {fileID: 866264869553673053}
   - {fileID: 1083845794004416344}
   - {fileID: 6909804132277103006}
@@ -53457,3 +53458,73 @@ MeshRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1001 &2351617029190110140
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3494048134579240325}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5608650037828075678, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 049d0708ef0ec7942b02b42f040943e1, type: 2}
+    - target: {fileID: 919132149155446097, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+      propertyPath: m_Name
+      value: Wooden_Fence & TownHouse
+      objectReference: {fileID: 0}
+    - target: {fileID: 2545880202130262668, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 049d0708ef0ec7942b02b42f040943e1, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+--- !u!4 &2821547257061420119 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 5707fe63247a83c4994c45a3e6d01c9b, type: 3}
+  m_PrefabInstance: {fileID: 2351617029190110140}
+  m_PrefabAsset: {fileID: 0}
