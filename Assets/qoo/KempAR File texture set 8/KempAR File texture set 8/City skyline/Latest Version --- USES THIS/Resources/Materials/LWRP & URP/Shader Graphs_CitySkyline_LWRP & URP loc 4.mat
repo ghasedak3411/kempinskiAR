@@ -25,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Cubemap_A969A664:
-        m_Texture: {fileID: 8900000, guid: f867ea411e411be4191fbe4e05f3463a, type: 3}
+        m_Texture: {fileID: 8900000, guid: efb6ff5b5e896674c9a13231e7ca8265, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_B38F6BB3:
@@ -54,12 +54,13 @@ Material:
     - Vector1_59F77DDC: 5
     - Vector1_8552C2FE: 0.502
     - Vector1_D9147FB5: 7.1
-    - _MyAlpha: 0.5
+    - _MyAlpha: 0.82
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
     - _Masked: {r: 0, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
+  m_AllowLocking: 1
 --- !u!114 &2578421530177778582
 MonoBehaviour:
   m_ObjectHideFlags: 11
