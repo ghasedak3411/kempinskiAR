@@ -10083,10 +10083,20 @@ MonoBehaviour:
     buildingLongitude: -80.18786508974004
     spawnedInstance: {fileID: 0}
     spawnedAnchor: {fileID: 0}
+  - label: 
+    latitude: 25.81256081159409
+    longitude: -80.18910626029638
+    prefab: {fileID: 7741823113658947875, guid: 1bf455dba484f254fa35e67c2a1215d3, type: 3}
+    fixedYRotation: 0
+    triggerDistanceMeters: 10
+    buildingLatitude: 25.81256081159409
+    buildingLongitude: -80.18910626029638
+    spawnedInstance: {fileID: 0}
+    spawnedAnchor: {fileID: 0}
   distanceText: {fileID: 524226199}
   locationSourceText: {fileID: 1382770728}
   altitudeOffset: 0
-  remoteLocationsUrl: https://ar.arforall.com/loc2.txt
+  remoteLocationsUrl: https://qoostudio.com/gps/locations.txt
   requiredAccuracyMeters: 3
 --- !u!4 &1716660035
 Transform:
